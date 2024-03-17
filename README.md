@@ -2,7 +2,8 @@
 <h1 align="center">Hi, İt's Enes 🤝</h1>
 <h3 align="center">I am a passionate back-end developer</h3>
 
-- 📫 How to reach me **iiveulox@gmail.com**
+- <img src="macbook-svgrepo-com.svg" width="50" height="50" align="left" />
+<font size="6"> How to reach me **iiveulox@gmail.com**
 
 - <img src="trophy-sports-and-competition-svgrepo-com.svg" width="50" height="50" align="left" />
 <font size="6"> Hobbies **I enjoy fitness and bodybuilding, as well as playing computer games. I have also gained experience in minecraft server development for a long time.**
